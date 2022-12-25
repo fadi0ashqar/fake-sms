@@ -17,14 +17,14 @@
 
 # Installation:
      1. For Linux Users:
-        a) git clone https://github.com/machine1337/fake-sms
+        a) git clone https://github.com/zero0hack/fake-sms
         b) cd fake-sms
         c) pip install -r requirements.txt
         d) python3 fakesms.py
         
      2. For Windows Users:
         a) Download python3 on windows and install it
-        b) git clone https://github.com/machine1337/fake-sms
+        b) git clone https://github.com/zero0hack/fake-sms
         c) pip install -r requirements.txt
         d) python fakesms.py
      
