@@ -20,7 +20,7 @@
       3. pip install requests
 
 # Installation:
-     1. For Linux Users:
+     1. For Linux & Termux Users:
         a) git clone https://github.com/z3ro-hack/fake-sms
         b) cd fake-sms
         c) pip install -r requirements.txt
