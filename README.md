@@ -1,6 +1,10 @@
 # fake-sms
 ![h2](https://user-images.githubusercontent.com/82051128/201476876-b4339820-0307-4cfb-8550-1fbfcc6c53dd.png)
 
+## DONATION 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/fadiAlashqar?country.x=IL&locale.x=en_US)
+
 
 
 # About API:
